@@ -7,7 +7,7 @@
 - ##### **Source**: Human blood samples.
 - ##### Sample Size: A total of 4,400 samples were used, consisting of:
   * ###### 400 uncontaminated patient samples (0% contamination).
-  * ###### 4,000 in-silico samples, generated using thirty CRAM files from uncontaminated patient samples.
+  * ###### 4,000 contaminated in-silico samples, generated using thirty CRAM files from uncontaminated patient samples.
     ###### The contamination was simulated at 10 different levels: 3%, 5%, 10%, 15%, 20%, 25%, 30%, 35%, 40%, and 45%.
  
 
