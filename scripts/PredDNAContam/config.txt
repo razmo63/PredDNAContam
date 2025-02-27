@@ -1,0 +1,2 @@
+input_dir=/path/to/input/data/extracted_VCF_files_chr2
+output_dir=/path/to/output_PredDNAcontam
