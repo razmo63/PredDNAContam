@@ -14,7 +14,7 @@
 
 ### More Details on Model Development
 
-##### For a detailed explanation of how the model was built—including all the steps in generating the in-silico training data and the full modeling process—refer to the [Wiki](https://github.com/razmo63/PredDNAContam/wiki).
+##### For a detailed explanation of how the model was built—including all the steps in generating the in-silico training data and the full modeling process please see the [Wiki](https://github.com/razmo63/PredDNAContam/wiki).
 
 ### Installation of PredDNAContam Tool
 
